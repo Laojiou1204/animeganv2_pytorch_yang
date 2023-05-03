@@ -1,0 +1,2 @@
+# animeganv2_pytorch_yang
+學習animeganv2的測試
